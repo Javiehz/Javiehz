@@ -61,10 +61,7 @@
 </p>
 
 <br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Javiehz&label=Profile%20views&color=0e75b6&style=flat" alt="Javiehz" />
-</p>
 
 ---
 
-⭐️ From [Javiehz](https://github.com/Javiehz)
+⭐️ [Javiehz](https://github.com/Javiehz)
