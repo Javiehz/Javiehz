@@ -2,7 +2,7 @@
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM2)**  
 💻 Apasionado por el desarrollo de software y la creación de aplicaciones multiplataforma  
-📱   Actualmente estoy aprendiendo **Android Development con Kotlin y Jetpack Compose**  
+📲  Actualmente estoy aprendiendo **Android Development con Kotlin y Jetpack Compose**  
 🚀 Me interesa mejorar día a día mis conocimientos
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
