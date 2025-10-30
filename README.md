@@ -47,9 +47,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Javiehz&show_icons=true&theme=dark&locale=en" alt="Javiehz" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Javiehz&theme=dark" alt="Javiehz" /></p>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 
