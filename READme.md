@@ -37,13 +37,6 @@
 </a>
 </p>
 
----
-
-
-
-
----
-
 ### 🌐 Conecta conmigo:
 <p align="left">
 <a href="https://www.linkedin.com/in/javieh/" target="blank">
