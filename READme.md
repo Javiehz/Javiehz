@@ -39,13 +39,7 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Javiehz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Javiehz" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Javiehz&show_icons=true&theme=dark&locale=en" alt="Javiehz" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 
 
 ---
