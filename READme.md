@@ -38,7 +38,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </a>
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiehz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<br 7>
+## Mis lenguajes usados:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiehz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
