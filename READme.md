@@ -55,4 +55,4 @@
 
 ---
 
-⭐️ [](https://javiehz.github.io/LandingPage/)
+⭐️ -> https://javiehz.github.io/LandingPage/
