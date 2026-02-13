@@ -40,7 +40,7 @@
 </a>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiehz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiehz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
