@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Javier Encabo!
+# 👋 ¡Hola, soy Javier!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM2)**  
 💻 Apasionado por el desarrollo de software y la creación de aplicaciones multiplataforma  
